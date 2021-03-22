@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mgurjar
+- 👋 Hi, I’m @Madhura
 - 👀 I’m interested in 
 - 🌱 I’m currently learning finance and investments, operations management, economics, leadership 
 - 💞️ I’m looking to collaborate on SQL, python, R, Matlab projects for data processing, cleaning and interpreting.
