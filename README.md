@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhura
-- 👀 I’m interested in 
-- 🌱 I’m currently learning finance and investments, operations management, economics, leadership 
+- 👀 I’m interested in yoga, cooking, macrame, kayaking, hiking, camping, saving the environment using technology.
+- 🌱 I’m currently learning finance and investments, operations management, economics, leadership. I am a mechanical engineer.
 - 💞️ I’m looking to collaborate on SQL, python, R, Matlab projects for data processing, cleaning and interpreting.
 
 
